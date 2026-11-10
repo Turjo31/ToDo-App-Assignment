@@ -1,0 +1,6 @@
+# Your Firebase config. Keep it out of a public repo.
+GoogleService-Info.plist
+.DS_Store
+xcuserdata/
+build/
+DerivedData/
